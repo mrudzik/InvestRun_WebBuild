@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 #unity-container {
-    position: absolute;
+/*    position: absolute;*/
 }
 #unity-container.unity-desktop {
     left: 50%;
